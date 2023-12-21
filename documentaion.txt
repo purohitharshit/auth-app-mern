@@ -1,0 +1,23 @@
+Project Installation Guide Prerequisites:
+
+    Node.js and npm: Ensure that Node.js and npm (Node Package Manager) are installed on your local machine. You can download and install them from Node.js official website.
+    MongoDB: Make sure MongoDB is installed and running on your system. You can download it from the official MongoDB website.
+
+Steps to Install and Run the Project:
+
+    Clone the Repository
+
+    Navigate to Project Directory
+
+    Install Dependencies: Run the following command to install the required Node.js dependencies: npm install
+
+    Start the Server: Run the following command to start the Node.js server: npm run dev
+
+    Access the Project: Open a web browser and go to http://localhost:3000/signup
+
+Additional Notes:
+
+    If you encounter any issues during installation, make sure you have followed the steps correctly and that all prerequisites are met.
+    Check the console logs for any error messages that might provide insight into the issue.
+    Ensure MongoDB is running before starting the server.
+
